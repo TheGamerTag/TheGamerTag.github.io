@@ -1,0 +1,7 @@
+body {
+  background-color: #0000FF;
+}
+li:hover{
+  color:red;
+  font-size: 200%;
+}
